@@ -1,1 +1,7 @@
-# Make this have a bunch of options that can be turned on and off.
+# This file contains config options for the program.
+# Lines in this file that are empty or contain a # are ignored.
+
+# Determines if the program prompts the user for action. If False, the proram auto opens links in websites.txt.
+prompt_actions = True
+# I probably want this to be False in the final release.
+
