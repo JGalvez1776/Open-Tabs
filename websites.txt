@@ -1,9 +1,11 @@
 # Enter websites to be opened upon running main.py
 # Lines that begin with a "#" or empty lines will be ignored.
 
-# Some example websites have been provided:
+# Some example website URLs have been provided:
 # https://www.google.com/
+# https://github.com/
 # https://www.youtube.com/
 # https://www.facebook.com/
 # https://twitter.com/
 # https://www.reddit.com/
+
