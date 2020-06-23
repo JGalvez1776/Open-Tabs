@@ -1,0 +1,5 @@
+TODO:
+	Make the readfile function use a try and except
+	to make it easier to use with errors?
+	Add more configs to give the program more things it
+	can handle
